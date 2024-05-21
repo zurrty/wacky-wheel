@@ -1,0 +1,33 @@
+{
+  "pallete": [
+    "FB2646",
+    "0077FF"
+  ],
+  "font": "assets/font/NotoSans.ttf",
+  "choices": [
+    {
+      "name": "Chat picks game",
+      "desc": "Chat picks a game to play."
+    },
+    {
+      "name": "Add emote",
+      "desc": "Add a 7TV/BTTV/FFZ emote of chat choice."
+    },
+    {
+      "name": "Song Request",
+      "desc": "Turn on Song Requests."
+    },
+    {
+      "name": "React",
+      "desc": "React to videos sent by chat for a while."
+    },
+    {
+      "name": "VIP",
+      "desc": "Wheel redeemer gets (or loses) VIP. Mods respin."
+    },
+    {
+      "name": "Spin Again",
+      "desc": ":tf:"
+    }
+  ]
+}
